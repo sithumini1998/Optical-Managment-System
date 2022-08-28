@@ -1,0 +1,183 @@
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\Wikramarachchi Opticians.exe.config
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\Wikramarachchi Opticians.exe
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\Wikramarachchi Opticians.pdb
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi Opticians.csprojAssemblyReference.cache
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Home.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Properties.Resources.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi Opticians.csproj.GenerateResource.cache
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi Opticians.csproj.CoreCompileInputs.cache
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi Opticians.exe
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi Opticians.pdb
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Login.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Manager.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Eye_Technician.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Add_New_Stock.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Delete_Frame.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Delete_Lens.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Workshop.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Employee_View.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Employee_Delete.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Employee_Edit.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Employee_Register.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Receptionist.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Report.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Patient_Register.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Patient_View.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Checkout.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Edit_Stock.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Receipt.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\stdole.dll
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi Opticians.csproj.CopyComplete
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Customer_Report.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Sales_Report.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Lens_Report.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Frame_Report.resources
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\Wikramarachchi Opticians.exe.config
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\Wikramarachchi Opticians.exe
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\Wikramarachchi Opticians.pdb
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\stdole.dll
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi Opticians.csprojAssemblyReference.cache
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Add_New_Stock.resources
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Customer_Report.resources
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Edit_Stock.resources
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Checkout.resources
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Employee_Delete.resources
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Delete_Frame.resources
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Delete_Lens.resources
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Employee_Edit.resources
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Employee_View.resources
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Employee_Register.resources
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Eye_Technician.resources
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Home.resources
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Lens_Report.resources
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Login.resources
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Manager.resources
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Patient_Register.resources
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Patient_View.resources
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Properties.Resources.resources
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Receipt.resources
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Receptionist.resources
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Report.resources
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Sales_Report.resources
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Frame_Report.resources
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Workshop.resources
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi Opticians.csproj.GenerateResource.cache
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi Opticians.csproj.CoreCompileInputs.cache
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi Opticians.csproj.CopyComplete
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi Opticians.exe
+C:\Users\Sithumini\Downloads\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi Opticians.pdb
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\Wikramarachchi Opticians.exe.config
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\Wikramarachchi Opticians.exe
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\Wikramarachchi Opticians.pdb
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\stdole.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi Opticians.csprojAssemblyReference.cache
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Add_New_Stock.resources
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Customer_Report.resources
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Edit_Stock.resources
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Checkout.resources
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Employee_Delete.resources
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Delete_Frame.resources
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Delete_Lens.resources
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Employee_Edit.resources
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Employee_View.resources
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Employee_Register.resources
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Eye_Technician.resources
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Home.resources
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Lens_Report.resources
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Login.resources
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Manager.resources
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Patient_Register.resources
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Patient_View.resources
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Properties.Resources.resources
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Receipt.resources
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Receptionist.resources
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Report.resources
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Sales_Report.resources
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Frame_Report.resources
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Workshop.resources
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi Opticians.csproj.GenerateResource.cache
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi Opticians.csproj.CoreCompileInputs.cache
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi Opticians.csproj.CopyComplete
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi Opticians.exe
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi Opticians.pdb
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\log4net.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\log4net.xml
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+C:\Users\Sithumini\Desktop\Wikramarachchi Opticians - Final Project\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
